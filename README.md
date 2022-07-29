@@ -16,3 +16,5 @@ https://public.tableau.com/app/profile/zachary.e.pausa/viz/NYCCitibikeAnalysis_1
 
 ## Summary
 After the visualizations I realized that a bike rental company's success is determined off of how much it gets used. The uses come in the form of getting to and from work as well as joy rides on the weekend. To make sure that there is no shortage of riders, the location needs to have a few things. A decent year round temperature, a young population, and lastly a short distance from work and home settings or a beautiful scenic route to take with the bikes. Without those things you could be looking at losses for a new startup company. 
+
+![image](https://user-images.githubusercontent.com/95777297/181686343-a73a8b0e-7152-4701-9285-ffac5dead7d4.png)
