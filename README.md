@@ -1,4 +1,4 @@
-# BikeSharing
+# Bike Sharing Analysis
 Using Tableau to analyze bikeshare data in NYC.
 
 ## Analysis
